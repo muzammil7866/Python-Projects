@@ -15,7 +15,6 @@ This repository is a professional Python engineering portfolio that spans AI wor
 ## Overview
 
 The repository highlights practical Python implementations designed for maintainability, iteration speed, and cross-domain reuse.
-It also includes selected builds that reflect BS AI coursework applications and project practice.
 
 ## Business Goals
 
