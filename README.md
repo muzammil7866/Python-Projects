@@ -16,6 +16,10 @@ This repository is a professional Python engineering portfolio that spans AI wor
 
 The repository highlights practical Python implementations designed for maintainability, iteration speed, and cross-domain reuse.
 
+## BS AI Coursework Context
+
+Relevant coursework influence in this repository includes AI problem solving, logic-based exercises, and applied programming for intelligent systems.
+
 ## Business Goals
 
 - Accelerate delivery through clear and reusable implementation patterns.
