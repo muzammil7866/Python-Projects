@@ -1,6 +1,6 @@
 # Python Projects 🐍
 
-This repository is a professional Python engineering portfolio covering AI workflows, algorithmic systems, automation utilities, and application-focused development.
+This repository is a professional Python engineering portfolio covering AI workflows, algorithmic systems, automation utilities, and application-focused development, informed by practical work, self-driven builds, and selected BS AI coursework.
 
 ## 🎯 Purpose
 
