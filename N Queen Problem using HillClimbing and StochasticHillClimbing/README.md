@@ -1,4 +1,4 @@
-# N-Queen Problem using Hill Climbing and Stochastic Hill Climbing
+﻿# N-Queen Problem using Hill Climbing and Stochastic Hill Climbing
 
 This project solves the N-Queen problem using two local-search algorithms and provides both CLI and GUI execution modes.
 
@@ -68,3 +68,12 @@ python .\nqueen.py --plot
 - Click `Solve` to run selected algorithm.
 - After a solved board is found, `Solve` is locked.
 - `Solve` is unlocked only when inputs change (seed, board size, algorithm) or when `Random Board` is clicked.
+
+## Screenshots
+
+### CLI Output
+![](screenshots/nqueen_cli_output.png)
+
+### GUI Board
+![](screenshots/nqueen_gui_board.png)
+

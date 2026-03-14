@@ -1,4 +1,4 @@
-# Snakes and Ladders Game using Tkinter
+﻿# Snakes and Ladders Game using Tkinter
 
 A classic Snakes and Ladders game application built with Python and the Tkinter GUI library. This project demonstrates interactive game development with visual animations and multiplayer logic.
 
@@ -43,3 +43,12 @@ This project serves several key objectives:
 -   **Ladders**: If you land on the bottom of a ladder, you automatically climb to the top.
 -   **Snakes**: If you land on the head of a snake, you slide down to its tail.
 -   The first player to reach exactly square 100 wins the game.
+
+## Screenshots
+
+### Board Screen
+![](screenshots/snakes_ladders_board.png)
+
+### Gameplay Screen
+![](screenshots/snakes_ladders_play.png)
+

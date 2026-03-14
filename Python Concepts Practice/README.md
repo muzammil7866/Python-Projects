@@ -1,4 +1,4 @@
-# Python Practice Concepts
+﻿# Python Practice Concepts
 
 This repository contains a demonstration of core and advanced Python concepts, refactored from a Jupyter Notebook for better organization and readability.
 
@@ -22,3 +22,9 @@ Execute the script to see the demonstrations in action:
 ```bash
 python python_practice_concepts.py
 ```
+
+## Screenshots
+
+### Program Output
+![](screenshots/python_concepts_output.png)
+

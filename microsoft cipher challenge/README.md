@@ -1,4 +1,4 @@
-# Microsoft Decypher Challenge
+﻿# Microsoft Decypher Challenge
 
 This project provides a robust implementation of the Caesar Cipher algorithm, inspired by the Microsoft Decypher Challenge.
 
@@ -19,3 +19,9 @@ python microsoft_cipher_challenge.py
 ```
 
 Follow the prompts to enter a word and a shift value.
+
+## Screenshots
+
+### Program Output
+![](screenshots/cipher_output.png)
+

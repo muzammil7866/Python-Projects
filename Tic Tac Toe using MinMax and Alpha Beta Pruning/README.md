@@ -1,4 +1,4 @@
-# Tic Tac Toe using MinMax and Alpha Beta Pruning
+﻿# Tic Tac Toe using MinMax and Alpha Beta Pruning
 
 This project implements Tic Tac Toe with optimal AI decision-making using MinMax and Alpha-Beta Pruning. It supports terminal and GUI modes.
 
@@ -74,3 +74,12 @@ python .\tictactoe.py --gui
 - Algorithm selection for AI: MinMax or Alpha-Beta
 - Live round status and score tracking
 - Restart round and reset score controls
+
+## Screenshots
+
+### Game Start
+![](screenshots/tictactoe_start.png)
+
+### Winning State
+![](screenshots/tictactoe_win.png)
+

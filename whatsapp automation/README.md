@@ -1,4 +1,4 @@
-# WhatsApp Automation
+﻿# WhatsApp Automation
 
 This project provides a script to automate sending WhatsApp messages to individual numbers or groups using `pywhatkit` and `pyautogui`.
 
@@ -15,7 +15,7 @@ You must have the following installed:
 - **Auto-Send**: Uses `pyautogui` to simulate the "Enter" key press to ensure the message is dispatched.
 - **Tab Management**: Automatically closes the WhatsApp Web tab after sending to keep your browser tidy.
 
-## ⚠️ Important Warning
+## âš ï¸ Important Warning
 This script uses **GUII automation (`pyautogui`)**. Once the script opens your browser:
 1. **Do not move your mouse** or use your keyboard until the message is sent.
 2. The script will take control of your keyboard to press "Enter" and "Ctrl+W".
@@ -27,3 +27,9 @@ Edit the `main()` block in `whatsapp_automation.py` with your target details and
 ```bash
 python whatsapp_automation.py
 ```
+
+## Screenshots
+
+### Automation Run
+![](screenshots/whatsapp_automation_run.png)
+

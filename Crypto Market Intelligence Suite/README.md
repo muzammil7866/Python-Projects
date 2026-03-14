@@ -1,4 +1,4 @@
-# Crypto Market Intelligence Suite
+﻿# Crypto Market Intelligence Suite
 
 This project modernizes the original semester notebook into a robust analytics pipeline for **Bitcoin, Ethereum, and Ripple** using CoinGecko market data.
 
@@ -58,3 +58,21 @@ Optional arguments:
 - Use the **indexed performance chart** to compare momentum.
 - Use the **rolling volatility chart** to discuss risk regimes.
 - Use the **correlation heatmap** to discuss diversification potential.
+
+## Screenshots
+
+### Price Trends
+![](outputs/visuals/01_price_trends.png)
+
+### Indexed Performance
+![](outputs/visuals/02_indexed_performance.png)
+
+### Return Boxplot
+![](outputs/visuals/03_return_boxplot.png)
+
+### Rolling Volatility
+![](outputs/visuals/04_rolling_volatility.png)
+
+### Correlation Heatmap
+![](outputs/visuals/05_correlation_heatmap.png)
+

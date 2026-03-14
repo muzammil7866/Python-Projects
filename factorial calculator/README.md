@@ -1,4 +1,4 @@
-# Factorial Calculator
+﻿# Factorial Calculator
 
 This project provides efficient implementations for calculating the factorial of a non-negative integer.
 
@@ -17,3 +17,9 @@ python factorial_calculator.py
 ```
 
 Enter a number when prompted to see both calculation methods in action.
+
+## Screenshots
+
+### Program Output
+![](screenshots/factorial_output.png)
+

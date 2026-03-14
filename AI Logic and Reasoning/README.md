@@ -1,10 +1,10 @@
-# AI Logic & Reasoning with Python
+﻿# AI Logic & Reasoning with Python
 
 This repository contains a collection of Python scripts demonstrating fundamental Artificial Intelligence logic concepts, including Propositional Logic, First-Order Logic (FOL), Resolution Proving, and Knowledge Base agents.
 
 These implementations utilize the **AIMA-Python** (Artificial Intelligence: A Modern Approach) library.
 
-## 📁 Project Modules
+## ðŸ“ Project Modules
 
 ### 1. `truth_table_generator.py`
 A utility script that generates formatted truth tables for boolean logic.
@@ -26,7 +26,7 @@ A First-Order Logic solver for the "West is a Criminal" problem.
 * **Key Concepts:** First-Order Logic (FOL), Forward Chaining, Predicates, Quantifiers.
 * **Function:** Defines rules (e.g., "It is a crime for an American to sell weapons to hostile nations") and facts, then uses inference to prove that `West` is a `Criminal`.
 
-## ⚙️ Prerequisites & Setup
+## âš™ï¸ Prerequisites & Setup
 
 These scripts require the `aima-python` utility files to run.
 
@@ -39,16 +39,16 @@ These scripts require the `aima-python` utility files to run.
 2.  **Directory Structure:**
     ```text
     /your-project-folder
-    ├── utils.py
-    ├── logic.py
-    ├── agents.py
-    ├── truth_table_generator.py
-    ├── resolution_prover.py
-    ├── wumpus_world.py
-    └── fol_crime_solver.py
+    â”œâ”€â”€ utils.py
+    â”œâ”€â”€ logic.py
+    â”œâ”€â”€ agents.py
+    â”œâ”€â”€ truth_table_generator.py
+    â”œâ”€â”€ resolution_prover.py
+    â”œâ”€â”€ wumpus_world.py
+    â””â”€â”€ fol_crime_solver.py
     ```
 
-## 🚀 How to Run
+## ðŸš€ How to Run
 
 Execute the scripts individually using Python 3:
 
@@ -64,3 +64,19 @@ python wumpus_world.py
 
 # Solve the Crime Logic Problem
 python fol_crime_solver.py
+```
+
+## Screenshots
+
+### Truth Table Output
+![](screenshots/truth_table_output.png)
+
+### Resolution Output
+![](screenshots/resolution_output.png)
+
+### Wumpus World Output
+![](screenshots/wumpus_world_output.png)
+
+### FOL Crime Solver Output
+![](screenshots/fol_crime_solver_output.png)
+

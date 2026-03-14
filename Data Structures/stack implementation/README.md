@@ -1,4 +1,4 @@
-# Stack Implementation (LIFO)
+﻿# Stack Implementation (LIFO)
 
 A clean and robust Python implementation of the Stack data structure, following the Last-In, First-Out (LIFO) principle.
 
@@ -17,3 +17,9 @@ Run the demonstration script:
 ```bash
 python stack_implementation.py
 ```
+
+## Screenshots
+
+### Program Output
+![](screenshots/stack_output.png)
+

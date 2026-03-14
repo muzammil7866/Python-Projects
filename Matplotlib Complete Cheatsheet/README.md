@@ -1,4 +1,4 @@
-# Matplotlib Complete Cheatsheet Guide
+﻿# Matplotlib Complete Cheatsheet Guide
 
 This folder contains a concept-focused notebook that serves as a practical Matplotlib reference.
 
@@ -53,3 +53,12 @@ This folder contains a concept-focused notebook that serves as a practical Matpl
 
 ## Purpose
 Use this notebook as a one-stop review guide for major Matplotlib concepts, from basic plotting to advanced layout, 3D visualization, and animations.
+
+## Screenshots
+
+### Plot Output 1
+![](screenshots/matplotlib_plot_01.png)
+
+### Plot Output 2
+![](screenshots/matplotlib_plot_02.png)
+

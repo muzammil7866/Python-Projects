@@ -1,4 +1,4 @@
-# Folium Cheatsheet Concepts
+﻿# Folium Cheatsheet Concepts
 
 This notebook covers the following Folium concepts and workflows:
 
@@ -21,4 +21,12 @@ This notebook covers the following Folium concepts and workflows:
 17. Plotting multiple locations from tabular data using loops.
 18. Making notebook data-loading robust with a fallback dataset when local files are missing.
 19. Basic multi-region examples (USA choropleth, Boulder markers, Kolkata points, Pakistan polyline, India state markers).
+
+## Screenshots
+
+### Base Map
+![](screenshots/my_map.png)
+
+### Final Map
+![](screenshots/final_map.png)
 
