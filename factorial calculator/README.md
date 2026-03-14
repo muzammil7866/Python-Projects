@@ -21,5 +21,5 @@ Enter a number when prompted to see both calculation methods in action.
 ## Screenshots
 
 ### Program Output
-![](screenshots/factorial_output.png)
+![](screenshots/factorial.png)
 

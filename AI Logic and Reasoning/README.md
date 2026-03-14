@@ -39,12 +39,12 @@ These scripts require the `aima-python` utility files to run.
 2.  **Directory Structure:**
     ```text
     /your-project-folder
-    â”œâ”€â”€ utils.py
-    â”œâ”€â”€ logic.py
-    â”œâ”€â”€ agents.py
-    â”œâ”€â”€ truth_table_generator.py
-    â”œâ”€â”€ resolution_prover.py
-    â”œâ”€â”€ wumpus_world.py
+     utils.py
+     logic.py
+     agents.py
+     truth_table_generator.py
+     resolution_prover.py
+     wumpus_world.py
     â””â”€â”€ fol_crime_solver.py
     ```
 
